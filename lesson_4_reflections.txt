@@ -1,0 +1,7 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+branches operate on a single repository
+
+clone allows you to clone the repository and create your separate copy of the repository that can be edited/committed independently
+
+fork -- is a terminology that is used on Github to describe a clone that is attributed. It will retain who the original repository belonged to. You can still edit it independently. 
