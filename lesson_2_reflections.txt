@@ -27,3 +27,5 @@ the diagram the way we do?
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+
+Adding a line on Github directly to check the difference. 
