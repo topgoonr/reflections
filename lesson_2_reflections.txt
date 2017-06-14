@@ -3,16 +3,23 @@ an empty repository is created, no files are committed yet since git will add al
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+it allows you to check what has changed from the time that you brought the repository in. 
 
 The staging area prepares for the commits to be put to the repository. Detachment from the working area or working directory is possible here.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+A git diff will reveal the current nature of the difference with the staging area. 
+A git status will check what you are possibly about to commit.
+If you think that the current change in index.html is probably a separate commit then you can simple commit game.js
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
+
+They allow you to track the git histories, and how merges can be made. 
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
